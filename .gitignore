@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 bower_components/
-=======
-bower_components/
-
->>>>>>> 381ab57e70f50eb4b8676444020d64099b81c2e0
+bower.json
+node_modules/
+package.json
