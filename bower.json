@@ -1,0 +1,22 @@
+{
+  "name": "angular_github",
+  "version": "0.0.0",
+  "authors": [
+    "Chris Handley <github.20.alabama3@spamgourmet.com>"
+  ],
+  "description": "Angular github api query exercise week 6 Makers Academy",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1",
+    "angular": "~1.3.5",
+    "angular-resource": "~1.3.5"
+  }
+}
