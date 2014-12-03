@@ -1,15 +1,14 @@
-{
+    {
   "name": "angular_github",
   "version": "0.0.0",
   "authors": [
-<<<<<<< HEAD
-    "langesi <langesi@aol.de>"
-  ],
-=======
+
+    "langesi <langesi@aol.de>",
+
     "Chris Handley <github.20.alabama3@spamgourmet.com>"
   ],
   "description": "Angular github api query exercise week 6 Makers Academy",
->>>>>>> 381ab57e70f50eb4b8676444020d64099b81c2e0
+
   "license": "MIT",
   "ignore": [
     "**/.*",
